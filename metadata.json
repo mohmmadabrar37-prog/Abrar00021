@@ -1,0 +1,6 @@
+{
+  "name": "Generative Photo Editor",
+  "description": "An interactive web app to edit, generate, and transform photos using natural language prompts powered by generative AI models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
